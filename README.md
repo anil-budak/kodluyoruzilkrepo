@@ -9,5 +9,4 @@ Swift Eğitimi kapsamında açtığım ilk repo. İçinde readme.md ve index.htm
 * En sonunda push etmek.
 
 *****
-![görsel](anilbudak/desktop/proje/2/Ekran Resmi 2022-08-13 18.13.58.png
 
