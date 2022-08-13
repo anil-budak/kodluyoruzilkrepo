@@ -6,9 +6,8 @@ Swift Eğitimi kapsamında açtığım ilk repo. İçinde readme.md ve index.htm
 * Projeyi klonlamak.
 * İçine readme.md ve index.html dosyaları eklemek.
 * Dosyalar içinde hangi değişiklikleri yapacağımızı belirlemek.
-* En son aşamada ise commit ile kaydetmek.
+* En sonunda push etmek.
 
 *****
-
-![Görsel](anil.budak/desktop/proje/2/Ekran Resmi 2022-08-13 18.13.58
+![görsel](anilbudak/desktop/proje/2/Ekran Resmi 2022-08-13 18.13.58.png
 
